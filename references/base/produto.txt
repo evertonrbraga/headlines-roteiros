@@ -1,0 +1,391 @@
+# Repolish AI — contexto de produto para marketing
+
+**Finalidade:** fornecer contexto para ferramentas de IA, redatores e designers criarem anúncios, landing pages e conteúdo para redes sociais.
+**Atualização:** 21/09/2026. **Idioma principal:** português brasileiro.
+**Base:** documentação de produto e código local, no commit-base `b59de9f`, incluindo alterações locais ainda não commitadas. Recursos identificados no código não equivalem a disponibilidade verificada em produção.
+
+Este é um documento de referência de produto e comunicação. As propostas de mensagens são sugestões editoriais, não campanhas já testadas. O público central vem da direção de produto registrada; os recortes de público, dores e objeções abaixo são hipóteses de comunicação, não resultados de entrevistas ou dados de conversão.
+
+## 1. Como usar este documento
+
+Anexe o arquivo inteiro como contexto da ferramenta de marketing. Em seguida, use um dos prompts da seção 14 e informe qual peça deseja produzir. Se houver pouco espaço, use o resumo da seção 2.
+
+Para obter peças específicas, forneça também: público da campanha, situação concreta de uso, canal, objetivo, formato, destino do clique e provas disponíveis. A mesma descrição do produto pode sustentar campanhas diferentes; cada peça deve se concentrar em uma situação e uma ação.
+
+As informações estão separadas por finalidade:
+
+- **Fatos do produto:** o que o código examinado permite afirmar.
+- **Direção de posicionamento:** a quem a comunicação se dirige e qual valor enfatiza.
+- **Sugestões criativas:** mensagens, exemplos e estruturas a experimentar.
+- **Limites das alegações:** o que a ferramenta não deve completar por conta própria.
+
+## 2. Resumo pronto para colar em outra ferramenta
+
+> Repolish AI é uma aplicação web para comparar respostas de diferentes modelos de inteligência artificial e refinar ideias, textos, argumentos e planos em novas rodadas. O usuário envia seu material, escolhe quais modelos participarão e recebe respostas separadas na mesma tela. Depois, pode marcar trechos como “Gostei” ou “Não gostei”, escolher quais respostas entram no contexto e escrever uma orientação para o próximo refinamento. As contribuições mantidas e as marcações passam a orientar os modelos da nova rodada.
+>
+> O público central definido pelo produto já usa IA, sabe escrever prompts e quer examinar melhor algo que já produziu ou pretende fazer. Para marketing, situações relevantes incluem revisar uma oferta antes de anunciá-la, melhorar uma proposta antes de enviá-la e confrontar um argumento antes de publicá-lo.
+>
+> O valor está em reunir perspectivas e conduzir o refinamento em um só fluxo. A mensagem central sugerida é: “Compare respostas de diferentes IAs. Refine sua ideia com o que faz sentido para você.” A comparação ajuda a levantar questões; não comprova que uma resposta está certa nem garante uma boa decisão.
+>
+> O modelo comercial é de créditos pré-pagos em reais, sem assinatura recorrente. O consumo varia conforme o uso. Não há oferta confirmada de teste grátis para análises reais. Não invente depoimentos, métricas de resultado, superioridade sobre concorrentes, automação de campanhas ou acesso ilimitado. Para anúncios, landing pages e redes sociais, mostre uma situação concreta, a comparação na tela e o refinamento orientado pelo usuário. Use linguagem direta, curiosa e sem exageros sobre a capacidade da IA. Toda peça deve deixar clara a ação seguinte e ser consistente com a página de destino.
+
+## 3. O que é o produto
+
+**Nome:** Repolish AI. “Repolish” pode ser usado depois da primeira menção.
+**Categoria descritiva sugerida:** ferramenta de comparação e refinamento com múltiplos modelos de IA.
+**Endereço registrado no projeto:** [repolish-ai.com](https://repolish-ai.com). O site não foi verificado nesta preparação.
+
+O produto recebe uma ideia, um texto, uma pergunta, um argumento ou um plano e encaminha o pedido aos modelos escolhidos pelo usuário. As respostas aparecem em cartões separados, identificados por modelo. Isso permite ler e comparar diferentes abordagens sobre o mesmo material.
+
+O trabalho continua depois da comparação. O usuário marca partes das respostas, mantém ou remove respostas do contexto e orienta a próxima rodada. O produto reúne esse material para gerar novas respostas. O histórico das rodadas fica visível na conversa, em uma organização visual com conexões entre os pedidos e os modelos.
+
+A unidade de valor para a comunicação é esse ciclo: **enviar → comparar → selecionar contribuições → refinar**. A quantidade de modelos pode chamar atenção, mas a demonstração precisa explicar o que o usuário faz com as respostas.
+
+### Três formas de apresentar
+
+**Em uma frase:** compare respostas de diferentes IAs e use as contribuições que escolher para refinar sua ideia.
+
+**Em uma explicação curta:** você envia sua ideia uma vez e recebe respostas de diferentes modelos na mesma tela. Marca os trechos que gostou ou quer rever e orienta uma nova rodada a partir desse contexto.
+
+**Em uma apresentação comercial:** o Repolish AI ajuda quem já usa inteligência artificial a examinar e desenvolver ideias, textos e planos com diferentes modelos. Você escolhe quem responde, compara as contribuições e dirige o refinamento por meio de marcações e novas instruções. O pagamento é por créditos, conforme o uso, sem assinatura recorrente.
+
+## 4. Para quem estamos comunicando
+
+### Público central definido pelo produto
+
+A direção registrada é atender quem já usa e paga por pelo menos uma IA, sabe formular pedidos e tem opinião sobre os modelos. Essa pessoa quer submeter algo a outras perspectivas antes de seguir adiante. Trata-se de uma escolha de posicionamento; não significa que todos os usuários tenham esse perfil.
+
+O momento de maior relevância é quando ela já tem algo concreto: uma proposta, uma oferta, uma copy, um raciocínio ou uma decisão em preparação. A comunicação deve começar por esse material e pelo que ainda precisa ser examinado.
+
+### Recortes sugeridos para campanhas
+
+| Recorte | Situação concreta | O que deseja examinar | Benefício a comunicar |
+| --- | --- | --- | --- |
+| Profissionais de marketing e copywriters | Uma oferta ou anúncio está prestes a ir para revisão ou publicação | Clareza da promessa, objeções, ambiguidades e alternativas de redação | Comparar críticas e orientar outra versão do texto |
+| Empreendedores e profissionais autônomos | Uma proposta comercial está pronta para enviar | Escopo, argumentos e dúvidas que o destinatário pode ter | Revisar o material com outras perspectivas antes do envio |
+| Criadores de conteúdo | Um roteiro, post ou argumento já está escrito | Coerência, compreensão e pontos que precisam de explicação | Refinar o conteúdo preservando os aspectos escolhidos pelo autor |
+| Profissionais de produto e estratégia | Um plano ou hipótese precisa ser apresentado | Premissas, alternativas e perguntas em aberto | Ampliar a revisão antes de discutir com pessoas e testar na prática |
+
+Para a primeira exploração criativa, o recorte de marketing oferece exemplos próximos dos canais pedidos: a própria copy ou oferta pode ser o material usado na demonstração. Isso é uma sugestão editorial, não uma conclusão sobre qual segmento compra mais.
+
+## 5. Problema, motivação e transformação desejada
+
+**Problema funcional:** comparar respostas em ferramentas separadas exige transportar o pedido, reunir os resultados e montar o contexto do próximo refinamento. No Repolish, essas etapas fazem parte da mesma conversa.
+
+**Motivação possível:** “A resposta parece boa, mas quero examinar outros caminhos antes de usar.” Essa fala é uma hipótese de linguagem do público, não um depoimento real.
+
+**Transformação desejada:** sair de uma primeira versão ou interpretação para um material revisado com contribuições selecionadas pelo próprio usuário. A qualidade final depende do pedido, das respostas e da revisão humana; não há ganho medido apresentado neste documento.
+
+### Situações que podem abrir uma peça
+
+- “Minha oferta está clara para quem nunca ouviu falar do produto?”
+- “O que ainda está mal explicado nessa proposta?”
+- “Qual premissa do meu plano merece ser questionada?”
+- “Como aproveitar esse argumento sem repetir o resto da resposta?”
+- “Quero outra perspectiva antes de publicar.”
+
+### Trabalho que o usuário quer realizar
+
+> Quando eu já tenho uma ideia ou um material e estou perto de usá-lo, quero comparar outras análises e escolher o que incorporar, para avançar com uma versão mais bem examinada.
+
+Essa formulação orienta a criação de peças. Ela não deve ser apresentada como pesquisa de cliente.
+
+## 6. Como funciona, em termos de experiência
+
+1. **Preparar o pedido.** O usuário escreve ou cola o material e pode acrescentar documentos de apoio.
+2. **Escolher os modelos.** Seleciona os participantes; a interface também oferece opções de modelo dentro das famílias e o controle `think` para aprofundamento.
+3. **Receber as respostas.** Os modelos selecionados são chamados em paralelo e cada resposta ocupa seu próprio cartão.
+4. **Comparar e marcar.** O usuário abre uma resposta e destaca trechos como “Gostei” ou “Não gostei”.
+5. **Escolher o contexto.** Pode incluir ou remover respostas do contexto da próxima rodada e escrever o que quer desenvolver ou revisar.
+6. **Refinar.** Os modelos da nova rodada recebem o pedido e o contexto reunido. As marcações feitas em respostas de diferentes modelos orientam essa nova etapa.
+7. **Retomar ou exportar.** Há histórico de conversas e exportação da sessão em PDF.
+
+Na rodada inicial, o material do usuário é encaminhado aos modelos. Instruções personalizadas podem variar por modelo quando o próprio usuário as define. Nas rodadas seguintes, os modelos recebem contribuições anteriores mantidas no contexto; portanto, essas rodadas não devem ser descritas como avaliações independentes entre si.
+
+O refino procura incorporar as preferências do usuário. Marcar “Gostei” não verifica uma afirmação, e marcar “Não gostei” não prova que ela está errada. A comunicação deve apresentar isso como direção editorial, sem prometer controle perfeito sobre cada resposta.
+
+## 7. Recursos traduzidos em benefícios
+
+| Recurso confirmado no código | O que permite fazer | Formulação útil para marketing |
+| --- | --- | --- |
+| Chamadas paralelas e cartões por modelo | Comparar respostas no mesmo ambiente | “Envie uma vez. Compare diferentes respostas na mesma tela.” |
+| Seleção de participantes e modelos | Escolher quem participa da análise | “Escolha os modelos que vão examinar sua ideia.” |
+| Marcação “Gostei” e “Não gostei” por trecho | Sinalizar aspectos a desenvolver ou revisar | “Marque o que vale desenvolver e o que precisa mudar.” |
+| Inclusão e exclusão de respostas do contexto | Controlar quais contribuições alimentam a próxima rodada | “Escolha o que levar para o próximo refinamento.” |
+| Novas rodadas com contexto e marcações | Continuar a partir das contribuições anteriores | “Use o que você selecionou para orientar a próxima versão.” |
+| Objetivo personalizado e instruções por modelo | Explicitar critérios e pedidos próprios | “Defina o objetivo da revisão e as instruções para cada modelo.” |
+| Histórico local e sincronização para a conta | Retomar conversas salvas | “Volte às conversas e acompanhe as rodadas anteriores.” |
+| Exportação da conversa em PDF | Levar o registro da sessão para fora do produto | “Exporte a conversa para consultar depois.” |
+| Anexos de texto, PDF e imagens | Acrescentar material ao pedido | “Inclua documentos de apoio na sua análise.” |
+| Créditos pré-pagos | Usar sem assinatura recorrente | “Recarregue créditos e use conforme sua necessidade.” |
+
+**Detalhes que delimitam as promessas:** PDF passa por extração de texto e tem limites de leitura; não anunciar OCR de documentos escaneados. O envio de imagens depende da compatibilidade do modelo escolhido. O controle `think` pode alterar custo e tempo e não garante uma resposta melhor. Histórico sincronizado não significa colaboração simultânea de equipes.
+
+## 8. Proposta de valor e diferenciação
+
+**Proposta de valor sugerida:** reunir comparação entre modelos e refinamento guiado pelo usuário em uma única experiência.
+
+Três pilares sustentam essa mensagem:
+
+1. **Perspectivas visíveis.** As respostas são identificadas e podem ser comparadas diretamente.
+2. **Seleção pelo usuário.** As marcações e a escolha de contexto deixam explícito o que ele quer levar adiante.
+3. **Continuidade.** A nova rodada usa as contribuições reunidas para desenvolver o trabalho.
+
+Esses são atributos do fluxo confirmado, sem alegação de exclusividade de mercado. Este documento não contém pesquisa atual de concorrentes.
+
+### Como explicar alternativas sem fazer comparações não verificadas
+
+| Alternativa de trabalho | Como situar o Repolish |
+| --- | --- |
+| Pedir outra versão na conversa com uma IA | Oferece respostas de modelos diferentes e permite reunir contribuições no refinamento |
+| Abrir ferramentas separadas e repetir o pedido | Reúne envio, comparação, marcação e continuidade no mesmo ambiente |
+| Pedir revisão a colegas ou especialistas | Pode preparar material e perguntas para essa revisão; não equivale à experiência e ao julgamento dessas pessoas |
+| Publicar e medir a reação do público | Ajuda a revisar antes; a aceitação real depende de testes e dados do público |
+
+Evitar apresentar o produto como substituto integral de outras assinaturas de IA. Ele oferece um fluxo específico; não há equivalência verificada com todas as funções desses serviços.
+
+## 9. Oferta e condições comerciais
+
+O código prevê créditos pré-pagos em reais, comprados por checkout, sem assinatura recorrente. Os pacotes locais consultados são **R$ 5, R$ 10, R$ 25, R$ 50 e R$ 100**.
+
+O consumo varia conforme modelos escolhidos, tamanho do contexto, resposta e aprofundamento. Novas rodadas também geram consumo. Não transformar o valor de uma recarga em preço fixo por análise nem em quantidade garantida de respostas.
+
+Os créditos têm validade de **30 dias**. A implementação prevê que uma nova recarga estenda o saldo ainda válido para 30 dias a partir da compra; isso não recupera créditos já expirados. A regra precisa estar consistente com o checkout e as condições exibidas na versão publicada antes de entrar em uma campanha.
+
+O cadastro não representa uma oferta de análises gratuitas. Há cenários sintéticos de demonstração no código, mas a configuração local atual prioriza login no envio. Portanto, “teste grátis” e “veja a demo” não são CTAs aprovados apenas pela existência desses arquivos.
+
+**Redação comercial reutilizável, após conferir a oferta publicada:** “Sem assinatura. Recargas a partir de R$ 5. Créditos válidos por 30 dias.”
+
+## 10. Tom de voz e mensagens
+
+O tom deve ser direto, curioso e concreto, adequado a quem já usa IA. Mostrar a tela, o pedido e as escolhas do usuário ajuda a explicar a utilidade. Termos técnicos como “ensemble”, “tokens” e “orquestração” não são necessários nas peças de apresentação.
+
+**Mensagem principal sugerida:** “Compare respostas de diferentes IAs. Refine sua ideia com o que faz sentido para você.”
+
+### Mensagens por intenção
+
+| Intenção | Mensagem sugerida | Prova visual correspondente |
+| --- | --- | --- |
+| Despertar curiosidade | “Sua ideia já tem uma resposta. Que outra perspectiva vale ouvir?” | O mesmo pedido e respostas identificadas |
+| Mostrar o funcionamento | “Envie. Compare. Marque. Refine.” | Uma sequência curta dessas quatro ações |
+| Explicar a participação do usuário | “Você escolhe quais contribuições entram na próxima rodada.” | Marcação de trecho e seleção de contexto |
+| Aproximar de uma tarefa | “Antes de enviar sua proposta, coloque os argumentos em revisão.” | Proposta fictícia usada como entrada |
+| Apresentar a oferta | “Use por créditos, sem assinatura.” | Tela de recarga e validade, com valores conferidos |
+
+### Vocabulário preferido
+
+Usar “comparar”, “revisar”, “refinar”, “perspectivas”, “contribuições”, “premissas”, “trechos” e “outra rodada”. Explicar “múltiplos modelos” como “diferentes modelos de IA” na primeira menção.
+
+Evitar “verdade garantida”, “decisão perfeita”, “validação definitiva”, “sem alucinações”, “os melhores modelos do mundo” e “substitui sua equipe”. Preferir benefício observável a superlativo.
+
+## 11. Objeções e respostas possíveis
+
+As objeções abaixo são hipóteses para orientar conteúdo e FAQ.
+
+| Objeção | Resposta sugerida |
+| --- | --- |
+| “Já pago por uma IA.” | O Repolish reúne comparação entre modelos e refinamento com trechos selecionados. O valor depende de quanto esse fluxo ajuda na sua tarefa. |
+| “Posso copiar meu prompt em várias ferramentas.” | Sim. Aqui você reúne as respostas na mesma conversa e escolhe as contribuições que vão orientar outra rodada. |
+| “Vou ter que ler muita coisa.” | Você escolhe os participantes e quais respostas entram no próximo contexto. A comparação continua exigindo leitura e julgamento. |
+| “Mais modelos significam que a resposta está certa?” | Não. Respostas podem concordar e ainda estar erradas. Use a comparação para levantar questões e revise os fatos relevantes. |
+| “O produto decide por mim?” | Você compara as respostas e orienta o refinamento. A decisão sobre o que usar continua sua. |
+| “Quanto vou gastar?” | O uso consome créditos e varia com os modelos, o contexto e as rodadas. Confira as informações de custo exibidas no produto. |
+| “Preciso de uma assinatura?” | O modelo previsto é de recarga de créditos, sem assinatura recorrente. Os créditos têm validade. |
+
+## 12. Exemplos de aplicação por canal
+
+Todos os textos desta seção são propostas de criação. Os casos são ilustrativos e não representam clientes, testes concluídos ou resultados obtidos.
+
+### Anúncio: revisar uma oferta antes de publicar
+
+**Gancho:** “Sua oferta está pronta. O que ainda ficou mal explicado?”
+
+**Texto:** “Coloque sua copy em revisão com diferentes modelos de IA. Compare as respostas, marque os trechos que quer aproveitar e oriente uma nova rodada no Repolish AI.”
+
+**CTA:** “Conheça o Repolish AI.”
+
+**Direção visual:** exibir uma oferta fictícia curta, a comparação e a marcação de um trecho. Para uma gravação do produto, usar respostas realmente geradas. Se for uma ilustração, identificá-la como exemplo, sem atribuir falas inventadas a modelos reais.
+
+### Anúncio: apresentar o mecanismo
+
+**Gancho:** “Você gostou de partes de respostas diferentes. Leve essas contribuições para a próxima rodada.”
+
+**Texto:** “No Repolish AI, você compara os modelos, marca o que quer desenvolver e dá a direção do refinamento.”
+
+**CTA:** “Veja como funciona”, quando a página de destino realmente mostrar o fluxo.
+
+### Landing page: sequência sugerida
+
+1. **Apresentação.** Título: “Compare respostas de diferentes IAs. Refine sua ideia.” Subtítulo: “Envie seu texto, argumento ou plano, selecione contribuições das respostas e oriente a próxima rodada.” CTA: “Conheça o fluxo” ou “Criar conta”, conforme o destino implementado.
+2. **Demonstração.** Mostrar um pedido curto, os cartões de resposta, uma marcação e o pedido de refinamento. Explicar cada ação em uma frase.
+3. **Situações de uso.** Revisão de oferta, proposta comercial e conteúdo. Manter a mesma situação do anúncio que trouxe o visitante sempre que possível.
+4. **Benefícios.** Comparação na mesma tela, escolha do contexto e continuidade entre rodadas. Relacionar cada benefício ao controle correspondente na interface.
+5. **Oferta.** Explicar créditos, ausência de assinatura recorrente, variação de consumo e validade. Exibir somente valores conferidos na versão publicada.
+6. **Perguntas frequentes.** Responder às objeções da seção 11 e esclarecer que comparação não é verificação factual.
+7. **Ação final.** Repetir um CTA que leve ao próximo passo real. Usar demonstração do produto como prova enquanto não houver depoimentos autorizados ou métricas verificadas.
+
+### Redes sociais: roteiro curto de demonstração
+
+**Abertura:** “Eu já tenho a proposta. Agora quero examinar o que ainda está mal explicado.”
+
+**Tela 1:** mostrar uma proposta fictícia e o pedido: “Aponte ambiguidades e perguntas que um cliente poderia fazer. Use apenas as informações fornecidas.”
+
+**Tela 2:** mostrar as respostas de diferentes modelos. Comentar uma diferença que realmente apareceu, sem predeterminar o que cada modelo deveria dizer.
+
+**Tela 3:** selecionar um trecho útil e um trecho a revisar. Mostrar a nova instrução: “Reescreva a proposta incorporando os esclarecimentos selecionados, sem acrescentar serviços ou garantias.”
+
+**Fechamento:** mostrar a nova rodada. “Esse é o fluxo do Repolish AI: comparar, selecionar contribuições e refinar.”
+
+**CTA sugerido:** “Conheça o Repolish AI.” Acrescentar “no link da bio” somente se o link estiver realmente configurado.
+
+### Redes sociais: carrossel de seis páginas
+
+1. “Sua proposta está pronta. Que dúvidas ela ainda deixa?”
+2. “Comece com o texto que você já tem e uma pergunta específica.”
+3. “Compare respostas de diferentes modelos de IA.”
+4. “Marque os trechos que vale desenvolver e os que precisam de revisão.”
+5. “Oriente uma nova rodada com essas contribuições.”
+6. “Conheça o Repolish AI: comparação e refinamento na mesma conversa.”
+
+### Pautas recorrentes sugeridas
+
+- Uma dúvida específica sobre uma oferta e como formulá-la para revisão.
+- Um exemplo de marcação que torna o pedido de refinamento mais preciso.
+- Duas abordagens que apareceram em uma comparação real e o que investigar depois.
+- Evolução de um texto fictício entre rodadas, com o critério de revisão explicado.
+- Como escolher o que manter no contexto quando uma resposta não ajuda.
+
+Essas pautas mostram uso e raciocínio. “Antes e depois” de um texto deve ser identificado como exemplo editorial; não equivale a aumento de conversão comprovado.
+
+## 13. Regras para não distorcer o produto
+
+Uma ferramenta de marketing que receber este documento deve seguir estas regras:
+
+- Não inventar clientes, depoimentos, estudos de caso, audiência, receita, taxas de conversão, economia de tempo ou percentuais de melhoria.
+- Não tratar concordância ou divergência entre modelos como comprovação de verdade. O produto permite comparação; não fornece certificação factual.
+- Não prometer busca na internet, pesquisa em tempo real, publicação automática, gestão de anúncios, disparos, CRM ou integrações de marketing não confirmadas. Este documento é para usar em ferramentas de marketing; essas funções não são recursos do Repolish.
+- Não prometer gratuidade, créditos de boas-vindas, acesso ilimitado, descontos ou condições não confirmadas.
+- Não afirmar exclusividade, superioridade sobre concorrentes ou equivalência a assinaturas de terceiros sem pesquisa específica e atual.
+- Não dizer que os modelos debatem autonomamente ou escolhem um vencedor. A comparação inicial e o refinamento com contexto são etapas distintas.
+- Não presumir que o seletor “Auto” escolhe inteligentemente o melhor modelo para cada tarefa. No código consultado, ele resolve para um modelo padrão por família.
+- Não inventar garantias sobre sigilo, retenção, treinamento com dados ou conformidade. Para esse tipo de afirmação, usar as políticas vigentes e verificadas.
+- Não atribuir respostas fictícias a um fornecedor real nem apresentar telas ilustrativas como resultados obtidos.
+- Não criar urgência artificial ou CTAs que dependam de ações inexistentes, como “comente para receber automaticamente”.
+
+### Cuidados com materiais antigos do repositório
+
+A base anterior e o README contêm descrições que não devem ser copiadas automaticamente. Nesta leitura:
+
+- **Rigor e estrelas:** não foram encontrados como controles na interface atual; não anunciar o botão “Rigor” nem avaliação de 1–5 estrelas.
+- **Síntese automática:** existe uma rota de agregação, mas não foi encontrada chamada no fluxo principal examinado. Não anunciar um painel final automático de consenso ou um “vencedor”. O refinamento entre rodadas está confirmado.
+- **Histórico:** há persistência local e sincronização para a conta; dizer que ele existe apenas no navegador omite parte da implementação.
+- **Catálogo:** há oito famílias de fornecedores no cadastro local e opções adicionais em `lib/models.ts`. Não reduzir isso a uma lista permanente de oito versões específicas nem garantir a disponibilidade de todo slug em produção.
+- **Tagline antiga:** “onde divergem está a verdade” ainda aparece em materiais locais. Este briefing adota a formulação prudente já registrada na base de produto: a comparação levanta questões, sem comprovar qual resposta está certa.
+
+## 14. Prompts para extrair mais das ferramentas de marketing
+
+### Instrução geral para acompanhar o documento
+
+```text
+Use o documento anexo como contexto factual do Repolish AI. Preserve a distinção entre
+recurso confirmado, benefício pretendido e hipótese de comunicação. Não transforme sugestões
+em resultados comprovados. Escreva em português brasileiro, com linguagem concreta e direta.
+
+Em cada peça, concentre-se em uma situação realista de alguém que já usa IA e já tem uma
+ideia, texto, argumento ou plano para revisar. Explique o mecanismo quando necessário:
+enviar, comparar, marcar contribuições e orientar outra rodada.
+
+Não invente recursos, números, prova social, gratuidade, urgência ou destinos de CTA.
+Se faltar informação indispensável, faça até três perguntas objetivas. Para detalhes
+editoriais reversíveis, explicite a suposição e continue. Separe as observações internas
+do texto final que será publicado.
+```
+
+### Para anúncios
+
+```text
+Com base no documento do Repolish AI, crie 6 conceitos de anúncio para [CANAL].
+Público: [RECORTE]. Situação: [MATERIAL QUE A PESSOA JÁ TEM E PRECISA REVISAR].
+Objetivo: [AÇÃO DESEJADA]. Destino do clique: [PÁGINA E O QUE ELA MOSTRA].
+Formato e restrições: [VÍDEO/IMAGEM/TEXTO, DURAÇÃO OU LIMITE].
+
+Use três ângulos diferentes, com duas variações de cada: problema concreto, demonstração
+do fluxo e participação do usuário no refinamento. Para cada conceito, entregue gancho,
+texto, CTA e direção visual. Em uma nota interna, explique a hipótese da peça e qual
+recurso confirmado sustenta a promessa. Não preveja desempenho. Mantenha a oferta e o
+CTA iguais quando a intenção for comparar somente os ganchos.
+```
+
+### Para landing page
+
+```text
+Escreva a copy de uma landing page do Repolish AI para [PÚBLICO], que chegará por
+[ANÚNCIO/ORIGEM]. A promessa de entrada é [MENSAGEM]. A conversão desejada é [AÇÃO].
+Oferta e condições conferidas: [DADOS]. Provas disponíveis: [TELAS/DEMO/CASOS AUTORIZADOS].
+
+Entregue título, subtítulo, CTA, explicação do fluxo, benefícios, situações de uso,
+oferta, FAQ e encerramento. Faça a promessa do anúncio continuar na página. Em cada
+seção, sugira o visual que explica melhor o produto. Não crie números ou depoimentos.
+Se não houver prova social, use demonstração verificável do funcionamento.
+Entregue a copy publicável separada das notas de produção e dos dados pendentes.
+```
+
+### Para redes sociais
+
+```text
+Crie 9 pautas para o Repolish AI em [REDE], voltadas a [PÚBLICO]. Distribua entre:
+situações de revisão, demonstrações do fluxo e respostas a objeções. Para cada pauta,
+entregue gancho, ideia central, formato, material necessário e CTA compatível com
+[DESTINO DISPONÍVEL]. Evite repetir a mesma mensagem com palavras diferentes.
+
+Depois desenvolva 1 roteiro curto e 1 carrossel a partir das pautas mais claras para
+explicar o produto. Identifique exemplos fictícios e deixe espaços para inserir
+respostas reais da tela. Não invente resultados dos modelos nem performance comercial.
+```
+
+### Para revisar uma peça antes de publicar
+
+```text
+Compare a peça abaixo com o documento de produto. Para cada promessa, classifique:
+sustentada pelo briefing, hipótese apresentada como fato ou sem suporte.
+Verifique também entendimento do mecanismo, adequação ao público, condições da oferta
+e correspondência entre CTA e destino. Reescreva os trechos problemáticos preservando
+a força da mensagem. Não aprove preços ou modelos específicos sem confirmação atual.
+
+Peça: [COLAR]
+Destino: [DESCREVER]
+Informações comerciais verificadas: [COLAR]
+```
+
+## 15. Dados que tornam a próxima criação mais precisa
+
+Ao usar este documento, acrescente os dados disponíveis abaixo. Se ainda não existirem, a ferramenta deve deixar a lacuna explícita, sem inventar:
+
+- Qual segmento e situação de uso a campanha prioriza.
+- Qual ação a peça deve gerar e para onde ela leva.
+- Qual oferta está efetivamente publicada, com preços e condições.
+- Quais gravações reais, capturas, casos e depoimentos podem ser usados.
+- Quais resultados de campanhas anteriores existem, com período e contexto.
+- Quais palavras, exemplos e objeções vieram de clientes reais.
+
+## 16. Fontes e manutenção deste contexto
+
+O documento foi preparado por leitura local, sem execução da aplicação, chamadas a modelos, consulta a contas de clientes ou verificação de produção. A documentação anterior foi preservada. A prioridade para descrever funcionamento foi o código atual, já que alguns textos históricos divergem dele.
+
+| Informação | Fonte local para conferir |
+| --- | --- |
+| Direção de público e centralidade das marcações | `core/objetivos-multimodelo.md`, seção 0; `core/produto.md` |
+| Jornada, rodadas e exportação disponível | `components/Stage.tsx`; `components/ExportConversationButton.tsx` |
+| Envio paralelo e refinamento | `lib/run.ts`; `lib/prompt.ts`; `lib/refinement-signals.ts` |
+| Seleção de trechos e contexto | `components/stage/Expanded.tsx`; `components/stage/ResponseCard.tsx` |
+| Objetivos definidos pelo usuário | `lib/objectives.ts`; `components/stage/CustomGoalModal.tsx` |
+| Famílias, modelos, Auto e think | `lib/providers/registry.ts`; `lib/models.ts`; `components/stage/HeadRow.tsx` |
+| Pacotes e consumo | `lib/pricing.ts`; `components/FundsModal.tsx` |
+| Renovação do saldo ainda válido | `supabase/migrations/20260909223000_credit_rollover_on_recharge.sql` |
+| Histórico e sincronização | `lib/store.ts`; `lib/conversation-sync.ts` |
+| Anexos e seus limites | `lib/attachments.ts`; `lib/providers/openrouter.ts` |
+| Configuração de entrada e demonstração | `lib/config.ts`; `components/Stage.tsx`; `lib/demo.ts` |
+| Agregação existente fora do fluxo principal encontrado | `app/api/aggregate/route.ts` |
+| Nome e domínio registrados | `app/page.tsx`; `app/layout.tsx` |
+
+Antes de reutilizar informações variáveis em uma publicação, conferir **oferta, catálogo e fluxo efetivamente publicado**. Ao atualizar esta base, registrar a nova data e revisar também o resumo da seção 2, para que ferramentas com contexto reduzido recebam as mesmas informações.

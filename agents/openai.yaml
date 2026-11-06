@@ -1,0 +1,4 @@
+interface:
+  display_name: "Headlines e roteiros"
+  short_description: "Cases surpreendentes, conteúdo notável e roteiros"
+  default_prompt: "Use $headlines-roteiros para criar headlines para este tema ou case, seguindo minhas referências aprovadas."
