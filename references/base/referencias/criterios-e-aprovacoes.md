@@ -279,3 +279,18 @@ O usuário rejeitou o excesso de texto branco e a baixa frequência de destaques
 Pedido explícito: entender o contexto dos prints, identificar o movimento, evitar repetição e encaixar esses momentos no roteiro existente. No case Levi’s, tratar os prints como âncoras de interesse e conferir os intervalos no vídeo, sem presumir que o relógio do print seja a entrada exata. Priorizar a progressão das ações; continuar o timecode quando retomar a mesma sequência, sem reiniciar o gesto. Usar outros estádios apenas na explicação geral da regra. Manter métricas adicionais como alternativas quando não constarem na fala. Esta orientação não aprova automaticamente todos os prints, os apoios propostos ou uma nova redação do roteiro.
 
 Revisão de apoio registrada em `outputs/levis-unsponsored-zrsVEPvkMxI/revisao-prints/entrega/storyboard.json`, com intervalos, movimento observado, primeiro quadro e vínculo à fala.
+
+
+## Preferências narrativas — Haaland / Payback Time (2026-11-06)
+
+Registro de feedback explícito do usuário; o roteiro integral ainda não foi aprovado como referência definitiva. O usuário enviará sua versão final posteriormente, cuja redação deverá ser preservada literalmente.
+
+- **Hook:** quando um personagem muito conhecido for o principal atrativo, apresentá-lo imediatamente (Haaland), com uma situação provocativa que também interesse a quem não conhece o jogo.
+- **Problema:** apresentar uma tensão convincente de modo breve: jogo com mais de dez anos, novas gerações e disputa por atenção. Não neutralizar a tensão com explicações de que o produto continua lucrativo/popular. Dramatização editorial plausível é permitida; não inventar fatos concretos.
+- **Progressão causal:** cada bloco deve motivar o seguinte, mantendo a atenção. Conectar a parceria com celebridade à busca por diferencial além do orçamento e à descoberta da rivalidade; evitar “alguém teve uma ideia” sem ponte narrativa. Não tornar essa sequência fórmula obrigatória.
+- **Linguagem ampla:** escrever Reels para espectadores de todos os nichos. Em vez de explicar mecânicas técnicas (“liberou a vila para ataques”), transmitir o conflito universal de vingança contra Haaland.
+- **Intenção versus repercussão:** a campanha buscou mobilizar os haters de Haaland; não dizer que o objetivo inicial era convocar o mundo inteiro. O alcance global veio como consequência.
+- **Estratégia e dados:** destacar que foi um desafio oficial do jogo; explicar o mapeamento das cidades com mais haters antes dos outdoors, em vez de apenas listar outdoors. Números, BBC/ESPN e detalhes concretos enriquecem a história quando bem dosados.
+- **Escalada de personagens:** citar brevemente José García, ex-goleiro de Honduras que sofreu nove gols de Haaland, antes de Ronaldo Fenômeno, Ronaldinho Gaúcho e Agüero, que têm maior apelo. Contextualizar a participação das lendas com a rivalidade e recordes ameaçados pelo atacante. Evitar frases artificiais que exagerem a importância de participações.
+- **Ritmo e tom:** cada bloco deve despertar vontade de ouvir o próximo. Evitar transições infladas, repetição, detalhes irrelevantes e elogios vazios. O usuário não quis citar o prêmio Cannes Lions neste roteiro; não transformar isso em proibição universal.
+- **Aprovação:** o usuário gostou de várias passagens e da direção geral, mas fará ajustes. Não marcar como roteiro final aprovado nem substituir textos previamente aprovados.
