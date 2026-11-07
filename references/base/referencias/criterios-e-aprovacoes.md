@@ -474,3 +474,32 @@ Novos critérios observados:
 - Trecho de valor aprovado: “Tudo somava quase meio milhão de dólares e havia apenas uma coisa entre aqueles objetos e um possível desastre: as fraldas da Huggies.” Sem vírgula antes do “e”; usar dois-pontos antes da revelação.
 - Contraste da transmissão ao vivo: preferir “Em vez de gravar um comercial, onde teria total controle sobre o que seria mostrado, resolveu fazer uma transmissão ao vivo de uma hora, no TikTok, Instagram e YouTube.” A oposição importante é controle editorial de um comercial gravado versus exposição real sem cortes/segundas tentativas.
 - Manter o restante do roteiro em desenvolvimento conforme a versão aprovada na conversa. Não marcar definitivo sem confirmação expressa.
+
+
+## Huggies — Expensive Sh*t: aprovação definitiva e lições completas (2026-11-07)
+
+**Roteiro final aprovado integralmente:** [roteiro-huggies-expensive-shit-aprovado-2026-11-07.md](roteiro-huggies-expensive-shit-aprovado-2026-11-07.md). O usuário declarou “100% aprovado e finalizado”. Substitui todas as versões de desenvolvimento anteriores; não alterar silenciosamente.
+
+### Hook: o usuário rejeitou as fórmulas e encontrou a voz do case
+- Cinco primeiras sugestões rejeitadas em bloco: “18 bebês contra meio milhão de dólares”, “A Huggies queria que 18 bebês fizessem cocô...”, “Um carro de luxo, um tapete de 89 mil dólares...”, “A Huggies colocou quase meio milhão...”, “Uma marca de fraldas organizou o cocô mais caro do mundo”. Eram formulações que imitavam mecanicamente estruturas anteriores ou diluíam a força da situação.
+- O usuário propôs e aprovou: “A Huggies alimentou 18 bebês, colocou em cima de meio milhão de dólares e literalmente esperou a merda acontecer.” Este hook funciona por **sequência causal concreta + escala do risco + punchline escatológica de duplo sentido**, não por uma fórmula genérica. Preservar o tom ousado quando a história o justifica; não inserir palavrões gratuitamente em outros cases.
+- Complemento aprovado, simplificado da sugestão inicial: “Mas por que uma das maiores marcas de fraldas do mundo faria isso?” Retirado “uma loucura dessas” por redundância e por já estar evidente no hook. **Não antecipar a resposta** no complemento.
+
+### Progressão e cortes
+- Problema universal descrito com objetividade (“O vazamento de fraldas”). Evitar redundância como “completamente sujos” e clichês como “demonstração que ninguém esqueceria tão cedo”; aprovados “bancos de carros sujos” e “demonstração que ninguém esperava”.
+- Dar concretude ao risco: 18 bebês, tapete turco US$89 mil, móveis de luxo, antiguidades, carro conversível, quase US$500 mil no total. Agrupar valor + suspense + revelação: “Tudo somava quase meio milhão de dólares e havia apenas uma coisa entre aqueles objetos e um possível desastre: as fraldas da Huggies.” **Sem vírgula antes de “e”** e com dois-pontos.
+- Segundo ato criativo: **não é somente um teste com objetos caros, é a escolha de fazer o teste ao vivo**. Frase definitiva: “Em vez de gravar um comercial, onde teria total controle sobre o que seria mostrado, resolveu fazer uma transmissão ao vivo de uma hora no TikTok, Instagram e YouTube simultaneamente.”
+- Frase aprovada: “Sem cortes, sem segundas tentativas.” O usuário inicialmente ditou “sem segundas intenções”, mas aceitou a correção contextual “tentativas”, que comunica ausência de refilmagem. Depois, frase própria: “Todo mundo poderia acompanhar, em tempo real, se as fraldas realmente funcionavam.”
+- Suspense deve ser resolvido por ações observáveis, sem exagero: os bebês se movimentaram, o público acompanhou, o tempo passou, nenhuma fralda vazou, objetos intactos. Não repetir desnecessariamente o que a narração já estabeleceu.
+
+### Resultados: regra forte de evidência
+- Primeira versão do roteiro trazia apenas resultados genéricos, premiação e “prova pública”; usuário exigiu números de audiência, mídia, repercussão e, se disponíveis, vendas. Não substituir evidência por elogio.
+- Dados incorporados na versão definitiva: **157 milhões de impressões espontâneas**, **184 mil+ visualizações**, **11 milhões de minutos assistidos** e **93% de consideração de compra em pesquisa de avaliação**. São números **reportados pelo case**; consideração de compra NÃO é venda concretizada. Não inventar vendas.
+- **REGRA GLOBAL INEGOCIÁVEL:** não mencionar Cannes Lions nem outros prêmios de criatividade em roteiros. Usuário expressamente proibiu; resultados devem focar impactos tangíveis, não troféus. Isso já consta em seção anterior, e é reafirmado aqui.
+- Em pesquisa pré-roteiro, quando solicitado, fornecer **lista única de fatos**, sem subdivisões de estrutura, lições ou conclusões. Diferenciar dados reportados de fatos independentes.
+
+### Conclusão: demonstração pública e confiança
+- A conclusão aprovada compara “dizer que funciona” versus “colocar a promessa à prova diante de todo mundo”; destaca transformar atributo técnico em experiência compreensível, o risco como elemento de atenção e a lição aplicável de **mostrar resultados em vez de apenas tentar convencer**.
+- É um mecanismo próprio, distinto de Heinz (questionar problemas normalizados), Levi's (usar restrições), Detox Bet (paradoxo), Haaland (inversão de rivalidade). **Não padronizar o insight autoral** entre campanhas.
+- Qualidade narrativa é prioridade absoluta sobre a duração. Preservar história, tensão, evidências e reflexão sem cortes para atingir minutagem arbitrária.
+- O fechamento [CONEXÃO CTA], [CTA] e [APRESENTAÇÃO] é fixo, sem alterações. Reimprimir o roteiro inteiro nas revisões, salvo pedido explícito em contrário.
