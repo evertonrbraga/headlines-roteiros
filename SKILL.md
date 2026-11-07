@@ -82,3 +82,10 @@ Preserve o escopo de cada orientação: uma decisão sobre um case ou etapa não
 Registre exemplos gerados como aprovados somente quando houver aprovação do usuário, mantendo a redação exata e uma breve justificativa. A autorização de atualização contínua não aprova automaticamente todo texto produzido pelo assistente. Uma escolha para desenvolver não aprova automaticamente o roteiro como modelo permanente.
 
 No projeto original, registre em `referencias/criterios-e-aprovacoes.md` e atualize a cópia incluída na skill. Fora do projeto, registre em `references/base/referencias/criterios-e-aprovacoes.md` da skill. Não sobrescreva escolhas anteriores nem presuma aprovações ausentes do contexto ou do registro.
+
+
+## Fechamento fixo — atualização explícita de 2026-11-06 (prevalece sobre textos fixos anteriores)
+
+O usuário confirmou que, em todos os próximos vídeos, **[HISTÓRIA] e [CONCLUSÃO] são específicas de cada case**, até o trecho que encerra a reflexão sobre a genialidade da campanha. **A partir de “E essa capacidade de enxergar possibilidades...” até “O link tá na bio”, todo o texto é fixo e será gravado uma única vez e reutilizado em todos os vídeos.** Não reescrever, resumir, personalizar, variar ou substituir esse fechamento sem nova orientação explícita do usuário. Esta instrução mais recente substitui as versões anteriores de fechamento fixo quando conflitarem. Preservar a grafia literal do texto enviado, inclusive suas peculiaridades, até que o usuário peça correção.
+
+O texto integral exato está em [referência Haaland enviada pelo usuário](references/base/referencias/roteiro-haaland-payback-time-aprovado-2026-11-06.md), a partir de “E essa capacidade de enxergar possibilidades, questionar o óbvio e conectar ideias pode se tornar uma das habilidades mais valiosas dos próximos anos” até “O link tá na bio”. O separador “——-” é estrutural, não locução. As seções variáveis continuam sendo história e conclusão; a transição para o bloco fixo não deve gerar reescrita do bloco. Se a skill irmã `roteiro` ou seu asset de fechamento ainda tiver texto anterior, sinalizar a necessidade de sincronizá-lo; este repositório não contém aquele asset.
