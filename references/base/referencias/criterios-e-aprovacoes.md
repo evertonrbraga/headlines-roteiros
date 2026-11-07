@@ -299,3 +299,10 @@ Registro de feedback explícito do usuário; o roteiro integral ainda não foi a
 ## Roteiro definitivo aprovado — Haaland / Payback Time — 2026-11-06
 
 O usuário confirmou expressamente que o texto enviado é o **roteiro definitivo**. Referência literal preservada em [roteiro-aprovado-haaland-payback-time-2026-11-06.md](roteiro-aprovado-haaland-payback-time-2026-11-06.md). Usar como exemplo positivo de hook em dois movimentos ("34 milhões contra um." + pergunta sobre o jogo mais difícil de Haaland), tensão de relevância de um jogo antigo, conexão causal até a descoberta dos haters, execução específica, escalada de personagens e conclusão sobre o insight criativo. Não transformar a estrutura em fórmula obrigatória. Preservar literalmente o texto; eventual correção de duplicação de palavra depende de autorização. Aprovação do roteiro não equivale à aprovação de legendas ou storyboard.
+
+
+## Referência autoral — roteiro Haaland enviado em 2026-11-06
+
+O usuário enviou sua redação consolidada após diversas rodadas de revisão e pediu anteriormente que a versão definitiva fosse guardada como referência. Texto integral preservado em [roteiro-haaland-payback-time-aprovado-2026-11-06.md](roteiro-haaland-payback-time-aprovado-2026-11-06.md). Usar como exemplo de voz, ritmo e progressão, não como molde obrigatório para todos os cases. O arquivo preserva até eventuais erros de digitação; corrigir somente com autorização.
+
+Aspectos demonstrados: hook em duas frases (“34 milhões contra um.” + pergunta sobre o jogo mais difícil de Haaland); contexto breve de desafio de relevância; celebridade como recurso óbvio contrastado com insight dos haters; escalada por desafio oficial, mapeamento geográfico, caso José García, Ronaldo/Ronaldinho, repercussão e métricas; conclusão autoral que extrai uma capacidade transferível (enxergar possibilidades, questionar o óbvio, conectar ideias); ponte para criatividade/IA e apresentação do Repolish com chamada pessoal. Distinguir sempre a preferência de estrutura da redação literal, que só deve ser reutilizada quando apropriado.
