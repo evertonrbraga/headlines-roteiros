@@ -306,3 +306,26 @@ O usuário confirmou expressamente que o texto enviado é o **roteiro definitivo
 O usuário enviou sua redação consolidada após diversas rodadas de revisão e pediu anteriormente que a versão definitiva fosse guardada como referência. Texto integral preservado em [roteiro-haaland-payback-time-aprovado-2026-11-06.md](roteiro-haaland-payback-time-aprovado-2026-11-06.md). Usar como exemplo de voz, ritmo e progressão, não como molde obrigatório para todos os cases. O arquivo preserva até eventuais erros de digitação; corrigir somente com autorização.
 
 Aspectos demonstrados: hook em duas frases (“34 milhões contra um.” + pergunta sobre o jogo mais difícil de Haaland); contexto breve de desafio de relevância; celebridade como recurso óbvio contrastado com insight dos haters; escalada por desafio oficial, mapeamento geográfico, caso José García, Ronaldo/Ronaldinho, repercussão e métricas; conclusão autoral que extrai uma capacidade transferível (enxergar possibilidades, questionar o óbvio, conectar ideias); ponte para criatividade/IA e apresentação do Repolish com chamada pessoal. Distinguir sempre a preferência de estrutura da redação literal, que só deve ser reutilizada quando apropriado.
+
+
+## Hooks de referência aprovados — 2026-11-06
+
+O usuário indicou explicitamente como exemplos de hooks excelentes:
+
+**Exemplo 1 — hook + complemento, aprovado como abertura definitiva de Haaland:**
+
+> 34 milhões contra um.
+>
+> Seria esse o jogo mais difícil da carreira de Erling Haaland?
+
+**Exemplo 2 — hook isolado aprovado como referência de estilo (sem complemento aprovado):**
+
+> Erling Haaland está contratando haters.
+
+Não inventar um complemento aprovado para o segundo exemplo. O usuário rejeitou explicitamente a proposta “E quanto mais eles tentam destruí-lo, melhor para ele.”
+
+**Mecanismos criativos:** (1) desproporção numérica extrema e concreta, com conflito instantaneamente visualizável; (2) inversão improvável de comportamento esperado de uma celebridade; (3) no primeiro exemplo, a segunda frase aprofunda o enigma sem explicá-lo, usando “jogo” como ponte de duplo sentido entre futebol e videogame; (4) frases curtas, específicas, simples e de impacto imediato, que criam curiosidade genuína e encontram resposta na história. Evitar abstrações genéricas, grandiloquência artificial, explicação antecipada da campanha, conflito inventado, e reformulações superficiais dos mesmos hooks.
+
+**Regra de composição:** explorar “chamada + complemento” quando servir ao caso. O complemento deve aumentar a curiosidade, tensão ou paradoxo, não apenas repetir, explicar ou diluir a primeira frase. Não é obrigação usar sempre duas frases nem repetir o mesmo mecanismo; buscar ideias novas com qualidade comparável. As dez alternativas propostas pelo assistente em duas rodadas foram rejeitadas integralmente, inclusive “O homem que uniu 34 milhões de inimigos” e “O mundo inteiro contra Erling Haaland. E foi ele quem começou.” Não tratá-las como referências positivas.
+
+**Estrutura completa confirmada:** história e conclusão variáveis por case; a partir de “E essa capacidade de enxergar possibilidades...” até “O link tá na bio”, fechamento literal fixo, gravado uma única vez e reutilizado. Ver o arquivo de referência integral do roteiro Haaland e a orientação mais recente no SKILL.md. Não modificar o fechamento sem solicitação explícita.
