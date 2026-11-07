@@ -340,3 +340,28 @@ O usuário escolheu explicitamente a opção 3 como complemento do hook “Erlin
 > Mas por que um dos maiores jogadores do mundo faria isso?
 
 O complemento cria uma pergunta direta sobre a motivação por trás do comportamento improvável, sem antecipar a resposta nem explicar a mecânica da campanha. Esta aprovação substitui o registro anterior de que o segundo hook ainda não tinha complemento aprovado; não significa que este par seja a abertura escolhida para o roteiro Haaland, cuja abertura definitiva permanece “34 milhões contra um.” e seu complemento.
+
+
+## Roteiro Detox Bet — versão definitiva e refinamentos editoriais (2026-11-06)
+
+**Referência aprovada:** [roteiro-detox-bet-aprovado-2026-11-06.md](roteiro-detox-bet-aprovado-2026-11-06.md). O usuário confirmou explicitamente “Esse é o final”. Preservar o texto literal como referência, sem normalizações automáticas. O texto sobre o status legal das bets reflete a redação aprovada, mas deve ser reconferido para reutilização factual em novos roteiros ou republicações futuras.
+
+**Aprendizados positivos específicos:**
+- Hook + complemento aprovado: “Detox Bet: A bet para libertar as pessoas das bets.” / “E se a solução para um dos maiores vícios do Brasil estivesse no próprio vício?” Contradição simples e inteligível, seguida de pergunta que amplia o paradoxo sem revelar o mecanismo.
+- Contexto atual deve levar ao passado da campanha com economia: “Atualmente ... Mas mesmo antes ...”, evitando desviar para a eficácia da proibição. Problema de saúde pública e mercado bilionário criam peso, mas não devem dominar a história.
+- Construir a lógica de descoberta por perguntas que se respondem progressivamente: por que apostas atraem? quais emoções? é possível reutilizá-las com segurança? A hipótese conduz naturalmente à parceria e ao teste, em vez de aparecer como uma nova trama desconectada.
+- Apresentar a mecânica em linguagem universal, concreta e compacta: prever quais ações da Bolsa performam melhor, concorrer a prêmios, sem arriscar dinheiro próprio. A frase “Na prática” deve cumprir a promessa da hipótese anterior, não introduzir um bloco sem ponte.
+- Posicionar a hipótese e a parceria com B3/Instituto Brasileiro de Neuromarketing e Neuroeconomia no começo-meio do desenvolvimento, não perto do encerramento como se fossem um novo problema central. Descrever monitoramento cerebral e cardíaco logo após explicar a experiência, e fechar o subarco com o dado de ~50% menos estresse. Não deixar o público esperando o resultado do experimento até depois de uma digressão sobre divulgação.
+- Depois do subarco científico, inserir lançamento na Bolsa, divulgação e nomes (Rafael Gratta, Guga) como escalada de alcance, antes de um bloco final de métricas. Guardar no “Resultado:” somente indicadores ainda não narrados: 106 mil cadastros, 86% potencial de aprendizado e 64% interesse em investir. Não repetir 50% de estresse no resultado geral se já encerrou o experimento.
+- Conclusão própria do case, breve e autoral: reaproveitar estímulos de uma experiência potencialmente nociva para interesse construtivo. Não copiar do Haaland fórmulas como “a genialidade dessa campanha” ou “encontrou uma oportunidade improvável”. Variar a forma de revelar a ideia, não apenas sinônimos.
+- História e conclusão têm duração aproximada, comparável à referência Haaland, sem exigência rígida de 90 segundos. O fechamento fixo fica fora da contagem; nunca encurtar uma narrativa boa apenas para alcançar um número exato.
+- A narração pode citar “divulgação em diferentes canais” enquanto o storyboard usa **imagens reais** do lançamento na B3, notícias, influenciadores e eventuais cerimônias comprovadamente ligadas ao case. Não acrescentar nomes de canais não verificados ou simular uma premiação. Separar plano visual de mudanças na locução.
+
+**O que o usuário rejeitou explicitamente:**
+- Frases sobre influenciadores vendendo promessa de dinheiro fácil; referências a arrependimento de Felipe Neto/Viih Tube nesse roteiro; e números apresentados duas vezes, no corpo e em “Resultado”.
+- Justificativas longas como “a proibição não apaga o problema”; formulações absolutas e repetidas como “de maneira completamente diferente”; “a empresa utilizou uma plataforma” desconectado de “foi assim que surgiu a proposta”.
+- Criar suspense artificial para saber se a experiência desperta as mesmas emoções, como se fosse o problema central; introduzir o experimento tarde, logo antes das métricas gerais; separar hipótese, funcionamento, medição e seu resultado por trechos que não se conectam.
+- Dar ao lançamento, divulgação ou premiação uma importância narrativa maior que o mecanismo criativo. Evitar blocos que não se encaixem: **coesão e causalidade são prioridades absolutas**, não apenas frases bonitas individualmente.
+- Conclusões genéricas, extensas ou reaproveitadas de outro case; o usuário prefere fechamento variável que prepare naturalmente a conexão fixa.
+
+**Fluxo de revisão:** a cada comentário sobre o roteiro, reapresentar o **roteiro inteiro atualizado**, incluindo os blocos fixos sem modificações; não responder só com trecho revisado salvo pedido explícito em contrário. A confirmação de versão final autoriza registrar o exemplo como aprovado, mas não equivale automaticamente a pedir storyboard/legendas, salvo regras expressas da skill sobre essa etapa.
