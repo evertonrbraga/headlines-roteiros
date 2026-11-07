@@ -377,3 +377,50 @@ Novos critérios observados:
 - Valorizar detalhes em camadas: o compartimento lateral resolve uma dor; sua forma inspirada no símbolo da Heinz ainda reforça a identidade da marca. Explicar tanto função quanto branding sem apenas enumerar fatos.
 - Preservar estrutura e identidade editorial entre cases, **mas variar vocabulário, imagens e construções**. Evitar repetir “improvável”, “inesperado”, “genialidade”, “grande sacada” e frases semelhantes por inércia; não resolver repetição apenas trocando uma palavra por sinônimo. A originalidade deve vir do mecanismo específico do case.
 - Quando o usuário pedir ajustes, reapresentar o roteiro inteiro, preservando literalmente a conexão CTA, CTA e apresentação fixos; não registrar como versão definitiva antes da aprovação explícita.
+
+
+## Heinz Dipper — roteiro definitivo e aprendizados consolidados (2026-11-07)
+
+**Referência integral aprovada:** [roteiro-heinz-dipper-aprovado-2026-11-07.md](roteiro-heinz-dipper-aprovado-2026-11-07.md). O usuário declarou expressamente “Esse é o final”. Preservar a redação exata e não fazer correções silenciosas. A conexão, CTA e apresentação são fixos e não devem variar entre os cases. Os fatos, métricas e alcance geográfico são os relatados no case; revalidar quando utilizados em outras publicações, sem reescrever o roteiro aprovado automaticamente.
+
+### Abertura aprovada — expectativa, participação e quebra
+
+> Uma apresentação grandiosa, executivos importantes e um telão gigantesco.
+>
+> O que você esperaria ver: uma tecnologia revolucionária ou uma caixa de batata frita?
+>
+> Se você chutou a segunda opção, acertou em cheio.
+
+- O mecanismo é uma cena visual grandiosa que sugere um produto de alta tecnologia, seguida de escolha entre opções desproporcionais e revelação surpreendente. A pergunta envolve o espectador e a resposta o recompensa.
+- O usuário rejeitou a alternativa “Um palco gigantesco, uma apresentação digna de Steve Jobs... O novo iPhone? Um computador revolucionário? Não. Uma caixa de batata frita.” Não tratar como modelo aprovado.
+- A referência a Steve Jobs/iPhone serve como analogia à estética do comercial, não como afirmação de que houve um evento real com executivos e plateia. Não inventar cenas na direção visual.
+
+### Problema e mecanismo — escolhas aprovadas
+
+- Começar com fricção humana reconhecível e simples: “Comer batata frita com sachês de ketchup.” Rejeitados exemplos situacionais específicos como “no carro, andando na rua ou assistindo a um jogo” quando desviam a atenção e não são representativos.
+- Agrupar frases semanticamente dependentes num só bloco: “Parece um detalhe pequeno, mas uma pesquisa...” com os dois dados de 70% e 80% na mesma unidade de sentido. Evitar cortes que fragmentem a argumentação.
+- Usar os números para revelar que a dor cotidiana tinha consequência real para a marca: pessoas cogitando deixar de consumir o molho. O dado tem função causal, não decorativa.
+- Não dizer “a solução estava em...” como se fosse a única saída possível. Aprovado: “Foi então que a Heinz encontrou uma saída engenhosa, aproveitando algo que já fazia parte daquela experiência: a própria caixa de batata frita.”
+- Descrever o mecanismo concretamente (compartimento lateral integrado, mergulhar batatas sem equilibrar sachês) e o segundo mérito do design: forma inspirada no símbolo da Heinz, reforçando branding **e** função prática. A conexão entre marca e utilidade é parte da descoberta.
+- A apresentação publicitária inspirada em lançamentos tecnológicos é um segundo ato criativo, diferente do design da embalagem. Introduzi-la como escalada após explicar a solução, sem transformá-la em uma apresentação real não comprovada.
+
+### Resultados — concretude e concisão
+
+- Encerrar a história com “Resultado:” seguido de indicadores objetivos, sem repetir dados narrados anteriormente. A versão aprovada: “Mais de um bilhão de impressões espontâneas na mídia.” / “Mais de 900 novos parceiros comerciais.” / “Presença em 12 países.”
+- O usuário rejeitou “E uma simples caixa de batata frita ganhou repercussão internacional” porque é conclusão genérica, não métrica. Também rejeitou “E uma solução adotada em 12 países”; preferiu a formulação direta “Presença em 12 países.”
+- O corpo pode citar países exemplares (Brasil, Estados Unidos, Canadá e Alemanha) e o bloco Resultado quantificar o alcance total; isso não é duplicação inútil, pois as informações têm papéis distintos.
+
+### Conclusão — aprendizado transferível
+
+- O usuário rejeitou a conclusão anterior focada em “a Heinz não precisou mudar o ketchup” e “transformou uma pequena mudança em acontecimento digno de lançamento de tecnologia”: era uma descrição superficial da campanha, não reflexão que a pessoa pudesse aplicar.
+- A conclusão definitiva parte de um princípio comportamental: quando nos habituamos a incômodos, deixamos de questioná-los; improvisamos e aceitamos limitações como inevitáveis. Fecha com uma pergunta de autoexame: “o que eu estou aceitando como normal simplesmente porque sempre foi assim?”
+- Conclusões devem trazer um insight específico e aplicável à vida/trabalho, sem clichês como “inovação não precisa ser complexa” ou “enxergar possibilidades diante dos olhos” como única moral. Não repetir a fórmula ou as mesmas palavras de Haaland e Detox Bet.
+- A conclusão deve preparar naturalmente a conexão CTA fixa sem reescrevê-la.
+
+### Regras editoriais reforçadas pelas três referências
+
+- Consistência de **arquitetura narrativa**, não de frases ou clichês. Buscar mecanismo original de cada case: Haaland (confronto desproporcional / inversão), Detox Bet (paradoxo que reaproveita estímulos), Heinz (grandiosidade versus objeto banal).
+- Evitar repetir “genialidade”, “grande sacada”, “improvável”, “inesperado” e sinônimos mecânicos de um case para outro. Não é apenas questão de thesaurus: a interpretação precisa ser singular.
+- Cada bloco deve ter propósito e conexão causal com o próximo; agrupar unidades semânticas completas. Não inflar um detalhe, nem atribuir à marca intenção ou exclusividade que o caso não sustenta.
+- Priorizar clareza para públicos amplos, dados concretos e resultados no fechamento da história; deixar CTA e apresentação literalmente invariáveis.
+- Em cada revisão, reapresentar o roteiro completo, preservando o fechamento fixo. Somente registrar um roteiro como referência definitiva quando o usuário declarar aprovação explícita.
