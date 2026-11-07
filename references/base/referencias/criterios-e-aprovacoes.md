@@ -465,3 +465,12 @@ Novos critérios observados:
 - **Fonte factual de referência para Expensive Sh*t:** London International Awards, entrada oficial https://2026.liaentries.com/winners/?award=g&category=&city=&company_name=&country=&credits=&id_category=0&id_entry=103142&id_medium=27&id_submedium=79&keyword=&medium=&page=1&proceed_advanced_search=true&proceed_simple_search=false&range=f&title_brand=&view=details ; relata 157 milhões de impressões espontâneas, 184 mil+ views, 11 milhões+ minutos assistidos, 93% consideração de compra, 96% avaliação positiva da qualidade, 91% crença na proteção, 87% intenção de compra associada à confiança. Esses são resultados **autodeclarados na inscrição**, não necessariamente auditoria independente. Não misturar com métricas de outras campanhas Huggies.
 - O usuário reafirmou que a **qualidade da história tem prioridade máxima sobre a duração**; não cortar elementos importantes apenas para cumprir minutagem.
 - A versão em edição deve ser reapresentada integralmente a cada revisão com CTA fixo preservado. **Não salvar o roteiro como referência definitiva até aprovação explícita.**
+
+
+## Regra editorial global e ajustes Huggies (2026-11-07)
+
+- **REGRA ABSOLUTA DO USUÁRIO: nunca mencionar Cannes Lions nem qualquer prêmio de criatividade em roteiros de cases**, incluindo história, resultados e conclusão. Mesmo quando a campanha foi premiada, não usar premiação como argumento de valor; priorizar resultados reais e quantificáveis. Aplica-se a TODOS os próximos roteiros e revisões; não reescrever retroativamente textos definitivos sem solicitação.
+- No roteiro Huggies em desenvolvimento, remover por completo a frase sobre prêmios.
+- Trecho de valor aprovado: “Tudo somava quase meio milhão de dólares e havia apenas uma coisa entre aqueles objetos e um possível desastre: as fraldas da Huggies.” Sem vírgula antes do “e”; usar dois-pontos antes da revelação.
+- Contraste da transmissão ao vivo: preferir “Em vez de gravar um comercial, onde teria total controle sobre o que seria mostrado, resolveu fazer uma transmissão ao vivo de uma hora, no TikTok, Instagram e YouTube.” A oposição importante é controle editorial de um comercial gravado versus exposição real sem cortes/segundas tentativas.
+- Manter o restante do roteiro em desenvolvimento conforme a versão aprovada na conversa. Não marcar definitivo sem confirmação expressa.
