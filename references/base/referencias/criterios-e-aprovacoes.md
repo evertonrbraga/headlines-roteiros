@@ -329,3 +329,14 @@ Não inventar um complemento aprovado para o segundo exemplo. O usuário rejeito
 **Regra de composição:** explorar “chamada + complemento” quando servir ao caso. O complemento deve aumentar a curiosidade, tensão ou paradoxo, não apenas repetir, explicar ou diluir a primeira frase. Não é obrigação usar sempre duas frases nem repetir o mesmo mecanismo; buscar ideias novas com qualidade comparável. As dez alternativas propostas pelo assistente em duas rodadas foram rejeitadas integralmente, inclusive “O homem que uniu 34 milhões de inimigos” e “O mundo inteiro contra Erling Haaland. E foi ele quem começou.” Não tratá-las como referências positivas.
 
 **Estrutura completa confirmada:** história e conclusão variáveis por case; a partir de “E essa capacidade de enxergar possibilidades...” até “O link tá na bio”, fechamento literal fixo, gravado uma única vez e reutilizado. Ver o arquivo de referência integral do roteiro Haaland e a orientação mais recente no SKILL.md. Não modificar o fechamento sem solicitação explícita.
+
+
+### Complemento aprovado para o segundo hook — 2026-11-06
+
+O usuário escolheu explicitamente a opção 3 como complemento do hook “Erling Haaland está contratando haters.”. Preservar o par literalmente como referência positiva:
+
+> Erling Haaland está contratando haters.
+>
+> Mas por que um dos maiores jogadores do mundo faria isso?
+
+O complemento cria uma pergunta direta sobre a motivação por trás do comportamento improvável, sem antecipar a resposta nem explicar a mecânica da campanha. Esta aprovação substitui o registro anterior de que o segundo hook ainda não tinha complemento aprovado; não significa que este par seja a abertura escolhida para o roteiro Haaland, cuja abertura definitiva permanece “34 milhões contra um.” e seu complemento.
