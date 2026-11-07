@@ -424,3 +424,31 @@ Novos critérios observados:
 - Cada bloco deve ter propósito e conexão causal com o próximo; agrupar unidades semânticas completas. Não inflar um detalhe, nem atribuir à marca intenção ou exclusividade que o caso não sustenta.
 - Priorizar clareza para públicos amplos, dados concretos e resultados no fechamento da história; deixar CTA e apresentação literalmente invariáveis.
 - Em cada revisão, reapresentar o roteiro completo, preservando o fechamento fixo. Somente registrar um roteiro como referência definitiva quando o usuário declarar aprovação explícita.
+
+
+## Levi's — The Cover-Up: roteiro definitivo e aprendizados editoriais (2026-11-07)
+
+**Referência aprovada:** [roteiro-levis-the-cover-up-aprovado-2026-11-07.md](roteiro-levis-the-cover-up-aprovado-2026-11-07.md). O usuário declarou “Tá excelente, pode gravar esse roteiro como definitivo”. Preservar sua redação integral, incluindo a conexão CTA, CTA e apresentação fixos. Dados e alegações do case são os adotados no roteiro; em novas utilizações factuais, revalidar fontes sem editar silenciosamente o texto aprovado.
+
+### Forma de pesquisa e preparação
+- Quando o usuário pedir levantamento prévio de um case, apresentar **uma única lista de bullet points factuais**, em ordem útil, sem subdividir em “problema”, “insight”, “conclusão”, “o que podemos aprender” ou avaliações autorais. O usuário quer fatos 1, 2, 3, sem categorias.
+- Distinguir fatos da ação inicial (regra da FIFA, cobertura do logotipo) de iniciativas posteriores da marca (foto do Instagram, lojas, camiseta) e resultados (países, imprensa, impressões). Não atribuir a ação inicial à Levi's nem confundir proibição com campanha planejada.
+
+### Abertura e progressão aprovadas
+- Hook literal: “A FIFA mandou esconder a Levi's e acabou fazendo propaganda de graça pra ela.” Complemento literal: “E o que era pra ser uma proibição acabou se transformando numa campanha vista bilhões de vezes pelo mundo.”
+- Mecanismo: autoridade reconhecível (FIFA), ação restritiva (“esconder”) e consequência contrária ao objetivo aparente (“propaganda de graça”). A frase promete um paradoxo e a história entrega a explicação.
+- Contexto objetivo: Copa 2026, Levi's Stadium, marca não patrocinadora, regra de ocultação, panos brancos, silhueta reconhecível, imagens circulando, resposta da marca, expansão internacional e resultados. Cada bloco prepara o seguinte.
+- Rejeição específica: depois de explicar que a silhueta continuava reconhecível, **não acrescentar** “Era como tentar esconder algo que todo mundo já sabia o que era.” O usuário considerou redundante: o próximo bloco deve começar diretamente com a circulação das imagens. Cortar explicações que repetem o que o espectador já compreendeu.
+- O usuário aprovou “E tudo isso sem precisar investir um centavo em mídia.” em vez da versão mais burocrática “sem precisar investir em compra de mídia”. Preservar o efeito narrativo, mas não generalizar a alegação a custos de produção.
+- O bloco “Resultado:” deve fechar a história com indicadores concretos e impacto documentado, não com análise editorial antecipada.
+
+### Conclusão aprovada — concisão e utilidade
+- A primeira versão da conclusão foi considerada boa na ideia, porém longa. O usuário aprovou condensar para o fenômeno de esconder algo e atrair atenção, seguido do mérito específico da marca: transformar a restrição em oportunidade e usar a regra a seu favor.
+- Conclusão literal encerra com: “Talvez a criatividade esteja menos em tentar controlar as circunstâncias e mais em descobrir o que podemos fazer com aquilo que não conseguimos controlar.”
+- Critério: reflexão autoral transferível à vida, trabalho e negócios; **não prolongar** a conclusão com frases redundantes. Preservar a singularidade de cada case e preparar a transição natural ao fechamento fixo.
+
+### Regras gerais reforçadas
+- Não explicar duas vezes a mesma ideia com paráfrases; se o bloco anterior já comunicou o ponto, avançar para a próxima consequência.
+- Conservar a voz coloquial, direta e fluida aprovada, evitando burocratizar frases fortes.
+- Consistência de arquitetura, mas variedade de mecanismos: Haaland (confronto/rivalidade), Detox Bet (paradoxo/reutilização de estímulos), Heinz (expectativa versus objeto banal e hábito), Levi's (restrição que amplifica a marca).
+- Em revisões, reapresentar o roteiro completo com o fechamento fixo inalterado; somente marcar como definitivo após aprovação explícita.
