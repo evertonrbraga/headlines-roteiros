@@ -365,3 +365,15 @@ O complemento cria uma pergunta direta sobre a motivação por trás do comporta
 - Conclusões genéricas, extensas ou reaproveitadas de outro case; o usuário prefere fechamento variável que prepare naturalmente a conexão fixa.
 
 **Fluxo de revisão:** a cada comentário sobre o roteiro, reapresentar o **roteiro inteiro atualizado**, incluindo os blocos fixos sem modificações; não responder só com trecho revisado salvo pedido explícito em contrário. A confirmação de versão final autoriza registrar o exemplo como aprovado, mas não equivale automaticamente a pedir storyboard/legendas, salvo regras expressas da skill sobre essa etapa.
+
+
+## Heinz Dipper — feedback editorial durante revisão (2026-11-07)
+
+O roteiro ainda está em revisão; não registrar a redação integral como aprovada. O usuário aprovou o hook em três movimentos: “Uma apresentação grandiosa, executivos importantes e um telão gigantesco.” / “O que você esperaria ver: uma tecnologia revolucionária ou uma caixa de batata frita?” / “Se você chutou a segunda opção, acertou em cheio.” A força é construir expectativa de apresentação tecnológica e quebrá-la com objeto banal, incluindo uma pergunta que envolve o espectador. Não usar a alternativa de hook com “apresentação digna de Steve Jobs”, rejeitada.
+
+Novos critérios observados:
+- Evitar exemplos situacionais frágeis ou excessivamente específicos (“no carro, andando na rua ou assistindo a um jogo”) quando não representarem bem o problema universal; nomear diretamente a fricção “comer batata frita com sachês de ketchup” pode ser mais forte e econômico.
+- Não tratar uma solução criativa como a única solução possível (“a solução estava em...”); mostrar que a marca encontrou **uma** saída engenhosa, sem exagerar exclusividade ou inevitabilidade.
+- Valorizar detalhes em camadas: o compartimento lateral resolve uma dor; sua forma inspirada no símbolo da Heinz ainda reforça a identidade da marca. Explicar tanto função quanto branding sem apenas enumerar fatos.
+- Preservar estrutura e identidade editorial entre cases, **mas variar vocabulário, imagens e construções**. Evitar repetir “improvável”, “inesperado”, “genialidade”, “grande sacada” e frases semelhantes por inércia; não resolver repetição apenas trocando uma palavra por sinônimo. A originalidade deve vir do mecanismo específico do case.
+- Quando o usuário pedir ajustes, reapresentar o roteiro inteiro, preservando literalmente a conexão CTA, CTA e apresentação fixos; não registrar como versão definitiva antes da aprovação explícita.
