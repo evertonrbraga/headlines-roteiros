@@ -294,3 +294,8 @@ Registro de feedback explícito do usuário; o roteiro integral ainda não foi a
 - **Escalada de personagens:** citar brevemente José García, ex-goleiro de Honduras que sofreu nove gols de Haaland, antes de Ronaldo Fenômeno, Ronaldinho Gaúcho e Agüero, que têm maior apelo. Contextualizar a participação das lendas com a rivalidade e recordes ameaçados pelo atacante. Evitar frases artificiais que exagerem a importância de participações.
 - **Ritmo e tom:** cada bloco deve despertar vontade de ouvir o próximo. Evitar transições infladas, repetição, detalhes irrelevantes e elogios vazios. O usuário não quis citar o prêmio Cannes Lions neste roteiro; não transformar isso em proibição universal.
 - **Aprovação:** o usuário gostou de várias passagens e da direção geral, mas fará ajustes. Não marcar como roteiro final aprovado nem substituir textos previamente aprovados.
+
+
+## Roteiro definitivo aprovado — Haaland / Payback Time — 2026-11-06
+
+O usuário confirmou expressamente que o texto enviado é o **roteiro definitivo**. Referência literal preservada em [roteiro-aprovado-haaland-payback-time-2026-11-06.md](roteiro-aprovado-haaland-payback-time-2026-11-06.md). Usar como exemplo positivo de hook em dois movimentos ("34 milhões contra um." + pergunta sobre o jogo mais difícil de Haaland), tensão de relevância de um jogo antigo, conexão causal até a descoberta dos haters, execução específica, escalada de personagens e conclusão sobre o insight criativo. Não transformar a estrutura em fórmula obrigatória. Preservar literalmente o texto; eventual correção de duplicação de palavra depende de autorização. Aprovação do roteiro não equivale à aprovação de legendas ou storyboard.
